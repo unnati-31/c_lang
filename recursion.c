@@ -18,7 +18,7 @@ int main() {
 
     printf("Fibonacci series: ");
     for (i=0; i < n; i++) {
-        printf("%d", fib(i));
+        printf("%d ", fib(i));
     }
     printf("\n");
 
