@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // a peak is a value strictly greater than all of its neighbours
+//this program counts the number of peaks and prints it's coordinates eg: (1,1)
 
 #define MAXN 100
 #define MAXM 100
